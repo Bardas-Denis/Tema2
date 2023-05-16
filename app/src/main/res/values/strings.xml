@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tema2</string>
+    <string name="animalHint">Enter the name of the animal</string>
+    <string name="continentHint">Enter the name of the continent</string>
+    <string name="addButton">Add</string>
+    <string name="error_required">Required field!</string>
+    <string name="error_already_exists">The animal already exists</string>
+    <string name="error_continent">This continent does not exists</string>
+</resources>
